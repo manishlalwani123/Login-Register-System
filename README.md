@@ -84,7 +84,7 @@ Copy code
 
 ---
 
-Replace `https://github.com/your-username/auth-demo.git` with your actual GitHub repo URL.
+Replace `https://github.com/manishlalwani123/auth-demo.git` with your actual GitHub repo URL.
 
 
 
